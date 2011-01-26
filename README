@@ -1,0 +1,20 @@
+Droobleck, Copyright 2010 Joseph W. Dougherty 
+
+Droobleck is a thick client for the Drupal open source CMS 
+(http://drupal.org/). It is an admittedly niche utility to update 
+content on a Druapl-based website. Droobleck is written in C++ using the 
+Qt framework and supports both MySQL and PostgreSQL Drupal installs 
+through the respective QSql plugins. 
+
+Droobleck is heavily based upon the htmleditor from the Qt-Labs Graphics 
+Dojo, available here: 
+http://qt.gitorious.org/qt-labs/graphics-dojo/trees/master/htmleditor 
+
+The icons used in Droobleck are Copyright FatCow 
+(http://www.fatcow.com/free-icons) and released under a Creative Commons 
+Attribution 3.0 License: "These icon sets are licensed under a Creative 
+Commons Attribution 3.0 License. This means you can freely use these 
+icons for any purpose, private and commercial, including online 
+services, templates, themes and software. However, you should include a 
+link to this page in your credits." 
+
